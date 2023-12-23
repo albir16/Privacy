@@ -1,0 +1,98 @@
+Certainly! Here's a simple HTML template for the provided Privacy Policy text:
+
+```html
+<!DOCTYPE html>
+<html lang="ro">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Politica de Confidențialitate - Timp Așteptare Vama</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+            color: #333;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        h2 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+            margin-top: 20px;
+        }
+
+        p {
+            margin-bottom: 15px;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        ul li {
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Politica de Confidențialitate - Timp Așteptare Vama</h1>
+
+    <p>WhiTe3 a creat aplicația Timp Așteptare Vama ca o aplicație Freemium. Această aplicație este furnizată de către WhiTe3 fără costuri și este destinată utilizării așa cum este.</p>
+
+    <h2>Informații Generale</h2>
+    <p>Această pagină este folosită pentru a informa utilizatorii cu privire la politicile mele privind colectarea, utilizarea și divulgarea Informațiilor Personale, în cazul în care cineva decide să utilizeze aplicația mea.</p>
+
+    <p>Dacă alegeți să utilizați aplicația mea, sunteți de acord cu colectarea și utilizarea informațiilor în conformitate cu această politică. Informațiile personale pe care le colectez sunt utilizate pentru furnizarea și îmbunătățirea aplicației. Nu voi utiliza sau distribui informațiile dumneavoastră cu nimeni, cu excepția așa cum este descris în această Politică de Confidențialitate.</p>
+
+    <h2>Colectare și Utilizare a Informațiilor</h2>
+    <p>Pentru o experiență mai bună în utilizarea aplicației mele, este posibil să vă cer să furnizați anumite informații personal identificabile. Informațiile pe care le solicit prin intermediul aplicației sunt reținute pe dispozitivul dumneavoastră și nu sunt colectate de mine în niciun fel.</p>
+
+    <p>Aplicația utilizează aplicații terțe care pot colecta informații folosite pentru a vă identifica.</p>
+
+    <h3>Link-uri către Politicile de Confidențialitate ale furnizorilor de aplicații terțe utilizate de aplicație:</h3>
+    <ul>
+        <li>Aplicații Google Play</li>
+        <li>AdMob</li>
+        <!-- Adăugați mai multe link-uri dacă este necesar -->
+    </ul>
+
+    <h2>Date de Jurnal (Log Data)</h2>
+    <p>Vreau să vă informez că ori de câte ori utilizați aplicația mea și în cazul unei erori în aplicație, colectez date și informații (prin intermediul produselor terțe) de pe telefonul dumneavoastră, numite Date de Jurnal. Aceste Date de Jurnal pot include informații precum numele dispozitivului dumneavoastră, versiunea sistemului de operare, configurația aplicației, data și ora utilizării aplicației și alte statistici.</p>
+
+    <h2>Cookie-uri</h2>
+    <p>Cookie-urile sunt fișiere cu o cantitate mică de date care sunt folosite în mod obișnuit ca un identificator unic anonim. Acestea sunt trimise către browserul dumneavoastră de către site-ul pe care îl vizitați și sunt stocate în memoria internă a dispozitivului dumneavoastră.</p>
+
+    <p>Această aplicație nu utilizează cookie-uri în mod explicit. Cu toate acestea, aplicația poate utiliza cod și biblioteci terțe care utilizează cookie-uri pentru a colecta informații și a îmbunătăți aplicațiile lor.</p>
+
+    <h2>Link-uri către Alte Site-uri</h2>
+    <p>Această aplicație poate conține link-uri către alte site-uri. Dacă faceți clic pe un link de la un terț, veți fi redirecționat către acel site. Rețineți că aceste site-uri externe nu sunt operate de mine. Prin urmare, vă sfătuiesc cu tărie să revizuiți Politica de Confidențialitate a acestor site-uri. Nu am control asupra și nu îmi asum nicio responsabilitate pentru conținutul, politicile de confidențialitate sau practicile oricărui site sau aplicație terță.</p>
+
+    <h2>Modificări la Această Politică de Confidențialitate</h2>
+    <p>Este posibil să actualizez Politica de Confidențialitate din când în când. Prin urmare, vi se recomandă să revizuiți periodic pagina Politicii de Confidențialitate pentru orice modificări. Aceste modificări sunt efective imediat după ce sunt postate pe această pagină.</p>
+
+    <h2>Contact</h2>
+    <p>Dacă aveți întrebări sau sugestii cu privire la Politica mea de Confidențialitate, nu ezitați să mă contactați. Adresa de e-mail: albert.dev90@gmail.com</p>
+
+    <p>Ultima actualizare: 23 decembrie 2023</p>
+
+  <h2>Despre Aplicație</h2>
+    <p>Această aplicație prezintă o medie a timpilor de așteptare în punctele rutiere de trecere a frontierei, atât pe sensul de intrare, cât și pe cel de ieșire din România.</p>
+
+    <p>Aplicația conține date despre timpii de așteptare pentru două tipuri de vehicule, autoturisme și camioane, atât pe sensul de intrare, cât și pe cel de ieșire din România. De asemenea, este precizat, pentru fiecare punct de trecere a frontierei, numărul arterelor de control, pe fiecare sens.</p>
+
+    <p>Timp Așteptare Vamă România furnizează utilizatorilor informații directe de la Poliția de Frontieră Română referitoare la timpii de așteptare la punctele de trecere a frontierei.</p>
+
+    <h2>DISCLAIMER (Declarație de Renunțare la Răspundere):</h2>
+    <p>Informațiile privind timpii de așteptare sunt furnizate de către Poliția de Frontieră Română și sunt afișate în această aplicație printr-o listă care preia datele de pe site-ul acestei instituții fără să le modifice. WhiTe3 (dezvoltatorul aplicației TAVRO) NU este afiliată și NU are acorduri cu Poliția de Frontieră Română sau cu alte instituții ale statului, prin urmare, nu își asumă responsabilitatea pentru eventualele discrepanțe în ceea ce privește timpii de așteptare la vamă, deoarece nu are control asupra informațiilor transmise pe site-ul Poliției de Frontieră. Vă mulțumim pentru înțelegere!</p>
+
+    <p>Pentru orice alte probleme legate de funcționarea aplicației sau dacă doriți să sugerați implementarea de noi funcționalități, vă rugăm să ne contactați prin e-mail la albert.dev90@gmail.com</p>
+</body>
+</html>
